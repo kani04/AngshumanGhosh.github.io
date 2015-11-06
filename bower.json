@@ -1,0 +1,21 @@
+{
+  "name": "AngshumanGhosh.github.io",
+  "homepage": "AngshumanGhosh.github.io",
+  "description": "personal webpage",
+  "main": "",
+  "moduleType": [],
+  "authors": [
+    "Angshuman Ghosh(angshumanghosh1234@gmail.com)"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#^1.2.0"
+  }
+}
